@@ -7,7 +7,7 @@
 
 #### C219
 - [L04](https://github.com/23019609/L04_PS)
-
+- [L06](https://github.com/23019609/C219_L06)
 
 ### Previous Semesters
 - [C206 L06](https://github.com/23019609/P06_pytest_project)
