@@ -1,7 +1,7 @@
 ### AY2024 Semester 2
 #### C346
-- [L03](https://github.com/23019609/L03_Exercises)
-- [L03](https://github.com/23019609/L03_QuizApp)
+- [L02](https://github.com/23019609/C346_L02)
+- [L03](https://github.com/23019609/C346_L03)
 - [L04](https://github.com/23019609/C346_L04)
 - [L05](https://github.com/23019609/C346_L05)
 - [L06](https://github.com/23019609/C346_L06)
