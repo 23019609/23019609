@@ -6,6 +6,7 @@
 - [L05](https://github.com/23019609/C346_L05)
 - [L06](https://github.com/23019609/C346_L06)
 - [L07](https://github.com/23019609/C346_L07)
+- [L08](https://github.com/23019609/C346_L08)
 
 #### C219
 - [L04](https://github.com/23019609/L04_PS)
